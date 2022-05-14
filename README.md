@@ -1,6 +1,8 @@
-# DogsAndCats
+# Image Classification
 
-Objective: Improve performance of Dogs and Cats classification
+Objective: Improve performance of image classifications
+
+Datasets: CIFAR10, MNIST, Dogs and Cats
 
 Compared performances of Custom CNN, Resnet50, and Resnet50 with Transfer Learning
 
